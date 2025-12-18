@@ -8,7 +8,7 @@ I enjoy learning by building projects from scratch and understanding how things 
 ## 👩‍💻 About Me
 
 - 🎓 Final-year Computer Science student  
-- 💻 Interested in Full-Stack Web Development  
+- 💻 Interested in Full-Stack Web Development & Software Engineering 
 - 🧠 Strong focus on fundamentals, clean logic, and problem-solving  
 - 🛠️ Learning by building real projects and deploying them  
 - 🌱 Currently improving my skills in frontend architecture, backend integration, and DSA  
