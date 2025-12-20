@@ -11,7 +11,8 @@ I enjoy learning by building projects from scratch and understanding how things 
 - 💻 Interested in Full-Stack Web Development & Software Engineering 
 - 🧠 Strong focus on fundamentals, clean logic, and problem-solving  
 - 🛠️ Learning by building real projects and deploying them  
-- 🌱 Currently improving my skills in frontend architecture, backend integration, and DSA  
+- 🌱 Currently improving my skills in frontend architecture, backend integration, and DSA
+- Take a look at my portfolio (i'm continously working on it btw, you can see every progress here in this link !!) click here: [https://personal-portfolio-3vb.pages.dev/]
 
 ---
 
@@ -26,6 +27,7 @@ I enjoy learning by building projects from scratch and understanding how things 
 - Node.js  
 - Express.js  
 - REST APIs  
+- API Integration
 
 **Databases**
 - MongoDB  
@@ -50,6 +52,20 @@ A full-stack web application designed to help writers manage:
 - To-do lists and important documents  
 
 > Built to understand real-world frontend–backend flow, state management, and deployment.
+
+• DataPulse: Real-Time Data and Schema Monitoring System July 2025 – Nov 2025 Link: [https://data-pulse-eight.vercel.app/#]
+– Developed a real-time monitoring system using PostgreSQL, Celery, Redis, and Watchdog to detect schema
+drift and data anomalies.
+– Designed modular architecture with FastAPI, JWT-auth, CI pipeline using GitHub Actions, and responsive
+React.js + Tailwind frontend.
+
+• Justice Genie – AI-Powered Legal Assistant Mar 2024 – Oct 2024 Link: [https://justice-genie-mu.vercel.app/]
+– Built a multilingual legal chatbot using Gemini LLM, Flask, React.js, and MongoDB Atlas.
+– Engineered a NLP pipleline to classify queries, extract IPC sections, punishments, and case summaries..
+– Deployed with CI/CD pipelines (Vercel, Render, Atlas); internally tested with 50+ users.
+– Load-tested /chat API with 300 concurrent users using Locust, sustaining 52K+ requests, 0 failures, median
+latency 8ms and 95th percentile 19ms, ensuring high performance.
+Chart.js, and Gemini API
 
 *(More projects coming as I continue building and learning.)*
 
@@ -80,6 +96,7 @@ A full-stack web application designed to help writers manage:
 
   
 - LinkedIn:  [https://www.linkedin.com/in/vemula-siri-mahalaxmi-b4b624319/]
+- email : sirimahalaxmivemula@gmail.com
 
 ---
 
