@@ -44,6 +44,22 @@ I enjoy learning by building projects from scratch and understanding how things 
 
 ## 📌 Projects
 
+## 🎧 Echoa (Currently working on this)
+
+**Echoa** is a design-first music web application focused on creating a cinematic and minimal listening experience. Inspired by vinyl culture, Echoa emphasizes smooth motion, clean typography, and intentional UX rather than cluttered autoplay interfaces.
+
+The project integrates **Spotify authentication** to personalize the experience and is being built step-by-step using production-grade frontend and backend practices.
+
+### Tech Stack
+- React (Vite)
+- Modern CSS animations
+- Spotify OAuth (in progress)
+- Node.js & Express (planned)
+- Mostly MERN STACK
+
+🚧 Currently building authentication flow and home experience.
+
+
 🔹 **Web Workspace for Writers**  
 A full-stack web application designed to help writers manage:
 - Work-in-progress (WIP)
