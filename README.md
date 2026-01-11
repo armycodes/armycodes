@@ -36,7 +36,7 @@ I am a builder at heart with a strong interest in creating practical, user-focus
 #### 🎧 **Echoa - AI-Powered Visual Music Companion**
 *(Status: Completed ✅)*
 
-**Echoa** is not just a music player; it is a living canvas that breathes with your sound. It creates a cinematic, minimal listening experience by translating the unseen emotions of your playlist into a visual void.
+**Echoa** is not just a music player; it is a living canvas that breathes with your sound. It creates a cinematic, minimal listening experience by translating the unseen emotions of your playlist into a visual void. 🔗 [**Live Link**](https://echoa-v1.pages.dev/)
 
 Unlike cluttered autoplay interfaces, Echoa emphasizes intentional UX. It integrates with **Spotify** to play your tracks while using **Gemini AI** to analyze the lyrics, beat, and mood of the song in real-time, syncing the background atmosphere to match the soul of the track.
 
