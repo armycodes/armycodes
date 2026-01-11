@@ -1,119 +1,107 @@
-# Hello Folks!! I'm Siri Mahalaxmi 👋  
+# Hello Folks!! I'm Siri Mahalaxmi 👋
 
-Final-year Computer Science student with a strong interest in building practical, user-focused web applications.  
-I enjoy learning by building projects from scratch and understanding how things work end-to-end rather than relying only on abstractions.
+**Final-year Computer Science Student & Full Stack Developer**
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 Final-year Computer Science student  
-- 💻 Interested in Full-Stack Web Development & Software Engineering 
-- 🧠 Strong focus on fundamentals, clean logic, and problem-solving  
-- 🛠️ Learning by building real projects and deploying them  
-- 🌱 Currently improving my skills in frontend architecture, backend integration, and DSA
-- Take a look at my portfolio (i'm continously working on it btw, you can see every progress here in this link !!) click here: [https://personal-portfolio-3vb.pages.dev/]
+I am a builder at heart with a strong interest in creating practical, user-focused web applications. I believe in learning by doing—building projects from scratch to understand the end-to-end flow rather than relying solely on abstractions. My goal is to merge clean logic with human emotion in software.
 
 ---
 
-## 🛠️ Tech Stack
+### 👩‍💻 About Me
 
-**Frontend**
-- HTML, CSS, JavaScript  
-- React  
-- Tailwind CSS (learning)  
+- 🎓 **Final-year Computer Science Student**
+- 💻 Passionate about **Full-Stack Web Development & Software Engineering**
+- 🧠 Focused on **fundamentals, clean logic, and problem-solving**
+- 🛠️ I learn by **building real projects** and deploying them to production
+- 🌱 Currently deep-diving into **Frontend Architecture, Backend Integration, and DSA**
 
-**Backend**
-- Node.js  
-- Express.js  
-- REST APIs  
-- API Integration
-
-**Databases**
-- MongoDB  
-- SQL 
-- Redis
-
-**Tools & Platforms**
-- Git & GitHub  
-- VS Code  
-- Cloudflare Pages  
-- Postman  
+✨ **Check out my journey & progress here:**
+👉 [**Visit My Personal Portfolio**](https://personal-portfolio-3vb.pages.dev/)
 
 ---
 
-## 📌 Projects
+### 🛠️ Tech Stack
 
-## 🎧 Echoa (Currently working on this)
-
-**Echoa** is a design-first music web application focused on creating a cinematic and minimal listening experience. Inspired by vinyl culture, Echoa emphasizes smooth motion, clean typography, and intentional UX rather than cluttered autoplay interfaces.
-
-The project integrates **Spotify authentication** to personalize the experience and is being built step-by-step using production-grade frontend and backend practices.
-
-### Tech Stack
-- React (Vite)
-- Modern CSS animations
-- Spotify OAuth (in progress)
-- Node.js & Express (planned)
-- Mostly MERN STACK
-
-🚧 Currently building authentication flow and home experience.
-
-
-🔹 **Web Workspace for Writers**  
-A full-stack web application designed to help writers manage:
-- Work-in-progress (WIP)
-- Character building & inspiration
-- Drafts and reference links
-- To-do lists and important documents  
-
-> Built to understand real-world frontend–backend flow, state management, and deployment.
-
-• DataPulse: Real-Time Data and Schema Monitoring System July 2025 – Nov 2025 Link: [https://data-pulse-eight.vercel.app/#]
-– Developed a real-time monitoring system using PostgreSQL, Celery, Redis, and Watchdog to detect schema
-drift and data anomalies.
-– Designed modular architecture with FastAPI, JWT-auth, CI pipeline using GitHub Actions, and responsive
-React.js + Tailwind frontend.
-
-• Justice Genie – AI-Powered Legal Assistant Mar 2024 – Oct 2024 Link: [https://justice-genie-mu.vercel.app/]
-– Built a multilingual legal chatbot using Gemini LLM, Flask, React.js, and MongoDB Atlas.
-– Engineered a NLP pipleline to classify queries, extract IPC sections, punishments, and case summaries..
-– Deployed with CI/CD pipelines (Vercel, Render, Atlas); internally tested with 50+ users.
-– Load-tested /chat API with 300 concurrent users using Locust, sustaining 52K+ requests, 0 failures, median
-latency 8ms and 95th percentile 19ms, ensuring high performance.
-Chart.js, and Gemini API
-
-*(More projects coming as I continue building and learning.)*
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | React (Vite), Tailwind CSS, Framer Motion, HTML5, CSS3, JavaScript (ES6+) |
+| **Backend** | Node.js, Express.js, Python (FastAPI/Flask), REST APIs |
+| **Database** | MongoDB, PostgreSQL, SQL, Redis |
+| **AI & APIs** | Gemini AI, Spotify API, OpenAI |
+| **Tools** | Git & GitHub, Postman, VS Code, Vercel, Render, Cloudflare Pages |
 
 ---
 
-## 📚 Currently Learning
+### 📌 Featured Projects
 
-- Advanced React patterns  
-- Backend best practices  
-- Database design  
-- Data Structures & Algorithms  
-- Writing cleaner, more maintainable code  
-- System Desgin
-- MERN Stack
-- Deploying into AWS
+#### 🎧 **Echoa - AI-Powered Visual Music Companion**
+*(Status: Completed ✅)*
 
----
+**Echoa** is not just a music player; it is a living canvas that breathes with your sound. It creates a cinematic, minimal listening experience by translating the unseen emotions of your playlist into a visual void.
 
-## 🎯 Goals
+Unlike cluttered autoplay interfaces, Echoa emphasizes intentional UX. It integrates with **Spotify** to play your tracks while using **Gemini AI** to analyze the lyrics, beat, and mood of the song in real-time, syncing the background atmosphere to match the soul of the track.
 
-- Become a strong Software Engineer with solid fundamentals  
-- Build meaningful, production-ready projects  
-- Continuously learn and adapt to new technologies  
+* **Core Philosophy:** "Don't just hear the music. Feel it."
+* **Key Features:**
+    * **Spotify Integration:** Seamless OAuth authentication and playback control.
+    * **AI Mood Analysis:** Uses Gemini AI to interpret song sentiment and dynamically adjust visuals.
+    * **Atmospheric UI:** Features a "Starry Night" void aesthetic with organic, non-looping animations.
+    * **Tech Stack:** React (Vite), Node.js, Express, Spotify Web API, Gemini AI, Framer Motion.
 
 ---
 
-## 📫 Connect With Me
+#### 📊 **DataPulse: Real-Time Data Monitoring System**
+*(July 2025 – Nov 2025)*
+🔗 [**Live Link**](https://data-pulse-eight.vercel.app/)
 
-  
-- LinkedIn:  [https://www.linkedin.com/in/vemula-siri-mahalaxmi-b4b624319/]
-- email : sirimahalaxmivemula@gmail.com
+A robust monitoring system designed to detect schema drift and data anomalies in real-time.
+* **Tech:** PostgreSQL, Celery, Redis, Watchdog, FastAPI, React.js.
+* **Highlights:** Designed a modular architecture with JWT-auth and set up a CI pipeline using GitHub Actions.
 
 ---
 
+#### ⚖️ **Justice Genie – AI-Powered Legal Assistant**
+*(Mar 2024 – Oct 2024)*
+🔗 [**Live Link**](https://justice-genie-mu.vercel.app/)
+
+A multilingual legal chatbot capable of classifying queries, extracting IPC sections, and summarizing cases.
+* **Tech:** Gemini LLM, Flask, React.js, MongoDB Atlas.
+* **Performance:** Load-tested with 300 concurrent users sustaining 52K+ requests with 0 failures and a median latency of 8ms. Used NLP pipelines for accurate legal information extraction.
+
+---
+
+#### 📝 **Web Workspace for Writers**
+*(Work in Progress)*
+
+A full-stack utility designed to help writers manage their creative workflow.
+* **Features:** WIP tracking, Character building, Draft management, and Reference linking.
+* **Goal:** Built to master real-world frontend–backend data flow and state management.
+
+---
+
+### 📚 Currently Learning & Exploring
+
+- ⚛️ **Advanced React Patterns** (Performance optimization, Architecture)
+- 🏗️ **System Design** (Scalability, Microservices)
+- ☁️ **Cloud Deployment** (AWS, Docker)
+- 🧩 **Data Structures & Algorithms** (Problem Solving)
+- 🧹 **Clean Code Practices** (Writing maintainable, production-grade code)
+
+---
+
+### 🎯 Goals
+
+1.  Become a strong Software Engineer with solid fundamentals.
+2.  Build meaningful, production-ready projects that solve real problems.
+3.  Continuously learn and adapt to new technologies.
+
+---
+
+### 📫 Connect With Me
+
+Let's talk about code, music, or AI!
+
+- 💼 **LinkedIn:** [Vemula Siri Mahalaxmi](https://www.linkedin.com/in/vemula-siri-mahalaxmi-b4b624319/)
+- 📧 **Email:** sirimahalaxmivemula@gmail.com
+
+---
 ⭐ *I believe consistency and curiosity matter more than rushing for results.*
