@@ -49,24 +49,38 @@ Unlike cluttered autoplay interfaces, Echoa emphasizes intentional UX. It integr
 
 ---
 
-#### 📊 **DataPulse: Real-Time Data Monitoring System**
-*(July 2025 – Nov 2025)*
-🔗 [**Live Link**](https://data-pulse-eight.vercel.app/)
+### 📊 DataPulse: Real-Time Data & Schema Monitoring
+> **Timeline:** July 2025 to Present
+> **Status:** Production-deployed, actively developed
 
-A robust monitoring system designed to detect schema drift and data anomalies in real-time.
-* **Tech:** PostgreSQL, Celery, Redis, Watchdog, FastAPI, React.js.
-* **Highlights:** Designed a modular architecture with JWT-auth and set up a CI pipeline using GitHub Actions.
+DataPulse is a system designed to track how data changes over time, with a focus on schema drift, structural changes, and unexpected shifts in recurring datasets. It is built around the assumption that data formats evolve silently and that integrations can break without obvious failures. Instead of treating data as static, DataPulse treats change itself as a first-class concern.
 
+**What the system handles:**
+* Monitoring recurring CSV uploads (daily / monthly)
+* Read-only connections to external relational databases
+* Detection of schema and structural changes over time
+* Ingestion from public and authenticated APIs
+* Non-blocking processing for long-running data checks
+* Email notifications when changes or anomalies are detected
+
+#### 🤝 Credits
+* **Subhash Yaganti** — Project creator and system architect; backend systems, security design, data modeling, background execution, and deployment.
+* **Siri Mahalaxmi Vemula** — Backend development, frontend functionality, UI/UX contributions and DataPulse AI help bot for chat-based Q&A (Gemini model integration).
+
+🔗 **[Live Link](https://data-pulse-eight.vercel.app)**
 ---
 
-#### ⚖️ **Justice Genie – AI-Powered Legal Assistant**
-*(Mar 2024 – Oct 2024)*
-🔗 [**Live Link**](https://justice-genie-mu.vercel.app/)
+### ⚖️ Justice Genie – AI-Powered Legal Assistant
+> **Timeline:** Mar 2024 to Oct 2024
+> **Status:** Live - Maintenance
 
-A multilingual legal chatbot capable of classifying queries, extracting IPC sections, and summarizing cases.
-* **Tech:** Gemini LLM, Flask, React.js, MongoDB Atlas.
-* **Performance:** Load-tested with 300 concurrent users sustaining 52K+ requests with 0 failures and a median latency of 8ms. Used NLP pipelines for accurate legal information extraction.
+Justice Genie is an assistive legal information tool focused on Indian law awareness. It helps users understand legal concepts and possible directions based on scenario-based inputs, without acting as a predictive or decision-making system. The project was built to explore real-world API design, data handling, and AI-assisted explanations in a sensitive domain where correctness and clarity matter.
 
+#### 🤝 Credits
+* **Siri Mahalaxmi Vemula** — Project creator and system architect; primary NLP pipeline design, backend implementation and Gemini integration.
+* **Subhash Yaganti** — NLP pipeline support, frontend–backend integration, additional features (quiz, account management), and UI/UX contributions.
+
+🔗 **[Live Link](https://justice-genie-mu.vercel.app)**
 ---
 
 #### 📝 **Web Workspace for Writers**
