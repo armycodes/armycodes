@@ -67,7 +67,7 @@ DataPulse is a system designed to track how data changes over time, with a focus
 * **Subhash Yaganti** — Project creator and system architect; backend systems, security design, data modeling, background execution, and deployment.
 * **Siri Mahalaxmi Vemula** — Backend development, frontend functionality, UI/UX contributions and DataPulse AI help bot for chat-based Q&A (Gemini model integration).
 
-🔗 **[Live Link](https://data-pulse-eight.vercel.app)**
+🔗 [**Live Link**](https://data-pulse-eight.vercel.app)
 ---
 
 ### ⚖️ Justice Genie – AI-Powered Legal Assistant
@@ -80,7 +80,7 @@ Justice Genie is an assistive legal information tool focused on Indian law aware
 * **Siri Mahalaxmi Vemula** — Project creator and system architect; primary NLP pipeline design, backend implementation and Gemini integration.
 * **Subhash Yaganti** — NLP pipeline support, frontend–backend integration, additional features (quiz, account management), and UI/UX contributions.
 
-🔗 **[Live Link](https://justice-genie-mu.vercel.app)**
+🔗 [**Live Link**](https://justice-genie-mu.vercel.app)
 ---
 
 #### 📝 **Web Workspace for Writers**
