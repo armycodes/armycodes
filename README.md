@@ -1,6 +1,6 @@
 # Hello Folks!! I'm Siri Mahalaxmi 👋
 
-**Final-year Computer Science Student & Full Stack Developer**
+**Software Engineer**
 
 I am a builder at heart with a strong interest in creating practical, user-focused web applications. I believe in learning by doing—building projects from scratch to understand the end-to-end flow rather than relying solely on abstractions. My goal is to merge clean logic with human emotion in software.
 
