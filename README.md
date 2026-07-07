@@ -1,121 +1,212 @@
-# Hello Folks!! I'm Siri Mahalaxmi 👋
+# Hi, I'm Siri Mahalaxmi Vemula
 
-**Software Engineer**
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Backend Software Engineer \| Java
+Developer`</b>`{=html}`<br/>`{=html} Building scalable web applications,
+backend systems and AI-powered products.
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+React;Building+Production-Ready+Applications;Always+Learning+Something+New"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://personal-portfolio-3vb.pages.dev/">`{=html}Portfolio`</a>`{=html}
+•
+`<a href="https://www.linkedin.com/in/vemula-siri-mahalaxmi-b4b624319/">`{=html}LinkedIn`</a>`{=html}
+•
+`<a href="mailto:sirimahalaxmivemula@gmail.com">`{=html}Email`</a>`{=html}
+•
+`<a href="https://leetcode.com/u/Vemula_Siri_Mahalaxmi/">`{=html}LeetCode`</a>`{=html}
+```{=html}
+</p>
+```
 
-I am a builder at heart with a strong interest in creating practical, user-focused web applications. I believe in learning by doing—building projects from scratch to understand the end-to-end flow rather than relying solely on abstractions. My goal is to merge clean logic with human emotion in software.
+------------------------------------------------------------------------
 
----
+# About
 
-### 👩‍💻 About Me
+I am a builder at heart with a strong interest in creating practical,
+user-focused web applications. I enjoy building complete products from
+scratch, learning the entire software lifecycle, and continuously
+improving my engineering skills. My goal is to build scalable software
+that combines clean architecture with great user experience.
 
-- 🎓 **Final-year Computer Science Student**
-- 💻 Passionate about **Full-Stack Web Development & Software Engineering**
-- 🧠 Focused on **fundamentals, clean logic, and problem-solving**
-- 🛠️ I learn by **building real projects** and deploying them to production
-- 🌱 Currently deep-diving into **Frontend Architecture, Backend Integration, and DSA**
+-   Computer Science Graduate
+-   Backend Engineering & Full-Stack Development
+-   Strong foundation in Data Structures & Algorithms
+-   Passionate about clean architecture and scalable systems
+-   Currently learning Java, Spring Boot, Docker, AWS and System Design
 
-✨ **Check out my journey & progress here:**
-👉 [**Visit My Personal Portfolio**](https://personal-portfolio-3vb.pages.dev/)
+------------------------------------------------------------------------
 
----
+# Tech Stack
 
-### 🛠️ Tech Stack
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,nodejs,express,fastapi,python,postgres,mongodb,redis,docker,git,github,linux,aws,postman,vscode"/>`{=html}
+```{=html}
+</p>
+```
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | React (Vite), Tailwind CSS, Framer Motion, HTML5, CSS3, JavaScript (ES6+) |
-| **Backend** | Node.js, Express.js, Python (FastAPI/Flask), REST APIs |
-| **Database** | MongoDB, PostgreSQL, SQL, Redis |
-| **AI & APIs** | Gemini AI, Spotify API, OpenAI |
-| **Tools** | Git & GitHub, Postman, VS Code, Vercel, Render, Cloudflare Pages |
+------------------------------------------------------------------------
 
----
+# Featured Projects
 
-### 📌 Featured Projects
+## Echoa --- AI-Powered Visual Music Companion
 
-#### 🎧 **Echoa - AI-Powered Visual Music Companion**
-*(Status: Completed ✅)*
+*"Don't just hear the music. Feel it."*
 
-**Echoa** is not just a music player; it is a living canvas that breathes with your sound. It creates a cinematic, minimal listening experience by translating the unseen emotions of your playlist into a visual void. 🔗 [**Live Link**](https://echoa-v1.pages.dev/)
+Echoa transforms music into a cinematic visual experience. Spotify
+playback is combined with Gemini AI to analyze lyrics, rhythm and mood,
+dynamically adapting the interface in real time.
 
-Unlike cluttered autoplay interfaces, Echoa emphasizes intentional UX. It integrates with **Spotify** to play your tracks while using **Gemini AI** to analyze the lyrics, beat, and mood of the song in real-time, syncing the background atmosphere to match the soul of the track.
+### Highlights
 
-* **Core Philosophy:** "Don't just hear the music. Feel it."
-* **Key Features:**
-    * **Spotify Integration:** Seamless OAuth authentication and playback control.
-    * **AI Mood Analysis:** Uses Gemini AI to interpret song sentiment and dynamically adjust visuals.
-    * **Atmospheric UI:** Features a "Starry Night" void aesthetic with organic, non-looping animations.
-    * **Tech Stack:** React (Vite), Node.js, Express, Spotify Web API, Gemini AI, Framer Motion.
+-   Spotify OAuth Authentication
+-   Gemini AI Mood Analysis
+-   Dynamic Visual Environment
+-   Real-time Playback Synchronization
+-   Atmospheric "Starry Night" Experience
 
----
+**Technology**
 
-### 📊 DataPulse: Real-Time Data & Schema Monitoring
-> **Timeline:** July 2025 to Present
-> **Status:** Production-deployed, actively developed
+`React` `TypeScript` `Express.js` `Spotify API` `Gemini AI`
+`Framer Motion`
 
-DataPulse is a system designed to track how data changes over time, with a focus on schema drift, structural changes, and unexpected shifts in recurring datasets. It is built around the assumption that data formats evolve silently and that integrations can break without obvious failures. Instead of treating data as static, DataPulse treats change itself as a first-class concern.
+**Live Demo:** https://echoa-v1.pages.dev/
 
-**What the system handles:**
-* Monitoring recurring CSV uploads (daily / monthly)
-* Read-only connections to external relational databases
-* Detection of schema and structural changes over time
-* Ingestion from public and authenticated APIs
-* Non-blocking processing for long-running data checks
-* Email notifications when changes or anomalies are detected
+**Repository:** https://github.com/armycodes/Echoa_V1
 
-#### 🤝 Credits
-* **Subhash Yaganti** — Project creator and system architect; backend systems, security design, data modeling, background execution, and deployment.
-* **Siri Mahalaxmi Vemula** — Backend development, frontend functionality, UI/UX contributions and DataPulse AI help bot for chat-based Q&A (Gemini model integration).
+------------------------------------------------------------------------
 
-🔗 [**Live Link**](https://data-pulse-eight.vercel.app)
----
+## DataPulse --- Real-Time Data & Schema Monitoring
 
-### ⚖️ Justice Genie – AI-Powered Legal Assistant
-> **Timeline:** Mar 2024 to Oct 2024
-> **Status:** Live - Maintenance
+Production-focused platform that monitors evolving datasets by detecting
+schema drift, structural changes and anomalies across CSVs, APIs and
+relational databases.
 
-Justice Genie is an assistive legal information tool focused on Indian law awareness. It helps users understand legal concepts and possible directions based on scenario-based inputs, without acting as a predictive or decision-making system. The project was built to explore real-world API design, data handling, and AI-assisted explanations in a sensitive domain where correctness and clarity matter.
+### Capabilities
 
-#### 🤝 Credits
-* **Siri Mahalaxmi Vemula** — Project creator and system architect; primary NLP pipeline design, backend implementation and Gemini integration.
-* **Subhash Yaganti** — NLP pipeline support, frontend–backend integration, additional features (quiz, account management), and UI/UX contributions.
+-   Monitoring recurring CSV uploads
+-   Database schema tracking
+-   API ingestion
+-   Background processing
+-   Email notifications
+-   AI-powered data assistant using Gemini
 
-🔗 [**Live Link**](https://justice-genie-mu.vercel.app)
----
+### Technology
 
-#### 📝 **Web Workspace for Writers**
-*(Work in Progress)*
+`FastAPI` `PostgreSQL` `Redis` `Docker` `React` `Gemini AI`
 
-A full-stack utility designed to help writers manage their creative workflow.
-* **Features:** WIP tracking, Character building, Draft management, and Reference linking.
-* **Goal:** Built to master real-world frontend–backend data flow and state management.
+### Credits
 
----
+**Subhash Yaganti** - Project Creator - Backend Architecture -
+Security - Database Design - Background Processing - Deployment
 
-### 📚 Currently Learning & Exploring
+**Siri Mahalaxmi Vemula** - Backend Development - Frontend
+Functionality - UI Improvements - Gemini AI Assistant
 
-- ⚛️ **Advanced React Patterns** (Performance optimization, Architecture)
-- 🏗️ **System Design** (Scalability, Microservices)
-- ☁️ **Cloud Deployment** (AWS, Docker)
-- 🧩 **Data Structures & Algorithms** (Problem Solving)
-- 🧹 **Clean Code Practices** (Writing maintainable, production-grade code)
+**Live Demo:** https://data-pulse-eight.vercel.app
 
----
+**Repository:** https://github.com/subhash-22-codes/DataPulse
 
-### 🎯 Goals
+------------------------------------------------------------------------
 
-1.  Become a strong Software Engineer with solid fundamentals.
-2.  Build meaningful, production-ready projects that solve real problems.
-3.  Continuously learn and adapt to new technologies.
+## Justice Genie --- AI-Powered Legal Assistant
 
----
+AI-assisted legal information platform focused on Indian law awareness
+through scenario-based interactions and Gemini-powered explanations.
 
-### 📫 Connect With Me
+### Highlights
 
-Let's talk about code, music, or AI!
+-   AI-assisted legal guidance
+-   Scenario-based interactions
+-   Gemini-powered explanations
+-   RESTful backend
+-   Responsive React frontend
 
-- 💼 **LinkedIn:** [Vemula Siri Mahalaxmi](https://www.linkedin.com/in/vemula-siri-mahalaxmi-b4b624319/)
-- 📧 **Email:** sirimahalaxmivemula@gmail.com
+### Technology
 
----
-⭐ *I believe consistency and curiosity matter more than rushing for results.*
+`Flask` `React` `MongoDB` `Gemini AI`
+
+### Credits
+
+**Siri Mahalaxmi Vemula** - Project Creator - System Architecture -
+Backend Implementation - NLP Pipeline - Gemini Integration
+
+**Subhash Yaganti** - NLP Support - Frontend--Backend Integration - Quiz
+& Account Management - UI/UX Improvements
+
+**Live Demo:** https://justice-genie-mu.vercel.app
+
+**Repository:** https://github.com/armycodes/Justice-Genie
+
+------------------------------------------------------------------------
+
+# Currently Exploring
+
+-   Java
+-   Spring Boot
+-   PostgreSQL Optimization
+-   REST API Design
+-   Docker
+-   AWS
+-   Distributed Systems
+-   System Design
+-   Data Structures & Algorithms
+
+------------------------------------------------------------------------
+
+# GitHub Analytics
+
+> Replace `armycodes` only if your username changes.
+
+``` html
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=armycodes&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armycodes&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=armycodes&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=armycodes&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/armycodes/armycodes/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+------------------------------------------------------------------------
+
+# Connect
+
+-   Portfolio: https://personal-portfolio-3vb.pages.dev/
+-   LinkedIn:
+    https://www.linkedin.com/in/vemula-siri-mahalaxmi-b4b624319/
+-   Email: sirimahalaxmivemula@gmail.com
+-   LeetCode: https://leetcode.com/u/Vemula_Siri_Mahalaxmi/
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+Building meaningful software through curiosity, consistency and
+continuous learning.
+```{=html}
+</p>
+```
